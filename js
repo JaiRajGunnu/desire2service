@@ -43,7 +43,7 @@ window.history.replaceState({}, document.title, clean_uri);
       });
       
 $(window).bind("load", function () {
-    jQuery(".loader").fadeOut("slow");
+    jQuery(".loader").fadeOut("slow"); 
     jQuery(".preloader").delay(0).fadeOut();
 });
 
