@@ -437,6 +437,7 @@ a img {
     position: relative;
     margin-top: -1px;
 }
+
 .counter-box:before {
     background: rgba(0, 0, 0, 0.7);
     content: "";
