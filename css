@@ -8,7 +8,7 @@ body {
 }
 
 .preloader {
-    background: linear-gradient(90deg, #960000 30%, #0008ff 60%);
+    background:linear-gradient(30deg, #0008ff 60%, #960000 30% );
     position: fixed;
     z-index: 1800;
     top: 0;
