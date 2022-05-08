@@ -1,4 +1,4 @@
-# desire2service
+# desire2service - geeksforgeeks srmist
 GeeksforGeeks SRMIST Technical Domain Task Round
 
 YOU CAN GO THROUGH A LIVE DEMO FOR THIS PROJECT:
